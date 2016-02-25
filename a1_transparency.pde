@@ -36,6 +36,37 @@ void draw() {
   unit(550,300,color (0,0,0));
   unit(400,300,color (0,0,0));
   unit(450,300,color (0,0,0));
+  
+ unit(100,400,color (0,0,0));
+ unit(200,400,color (0,0,0));
+ unit(300,400,color (0,0,0));
+ unit(400,400,color (0,0,0));
+ unit(500,400,color (0,0,0));
+ unit(600,400,color (0,0,0));
+ unit(700,400,color (0,0,0));
+ unit(800,400,color (0,0,0));
+ unit(900,400,color (0,0,0));
+ 
+ unit(100,500,color (0,0,0));
+ unit(200,500,color (0,0,0));
+ unit(300,500,color (0,0,0));
+ unit(400,500,color (0,0,0));
+ unit(500,500,color (0,0,0));
+ unit(600,500,color (0,0,0));
+ unit(700,500,color (0,0,0));
+ unit(800,500,color (0,0,0));
+ unit(900,500,color (0,0,0));
+ 
+ unit(650,400,color (0,0,0));
+ unit(550,400,color (0,0,0));
+ unit(450,400,color (0,0,0));
+ unit(350,400,color (0,0,0));
+ unit(550,500,color (0,0,0));
+ unit(450,500,color (0,0,0));
+ 
+ 
+ 
+ 
  
 }
 
